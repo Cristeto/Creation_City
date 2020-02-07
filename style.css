@@ -249,7 +249,10 @@ body {
 background-color: ;
 padding-top: 2%;
 }
-
+#content-ny p {
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+}
 #white1 {
     width: 90%;
     height: 90%;
